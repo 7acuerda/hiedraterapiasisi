@@ -1,0 +1,74 @@
+.header {
+   height: 10em;
+   padding: 5em;
+   font-size: 1em;
+   background-image: url(../imgs/amatista.jpg);
+   background-size: cover;
+   background-position: center;
+   text-align: center;
+}
+
+.cosmetica {
+   font-size: 50px;
+   margin-top: 0px;
+   border-top: 0%;
+   color: white;
+}
+
+h1 {
+   color: white;
+   font-size: 5em;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   padding-bottom: 0;
+   margin-bottom: 0px;
+   margin-top: 20px;
+}
+
+body {
+   background-color: pink;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin: auto;
+}
+
+.img1 {
+   height: 300px;
+   width: 300px;
+   border-radius: 30%;
+   padding-bottom: 2em;
+}
+
+.img2 {
+   height: 300px;
+   width: 300px;
+   border-radius: 30%;
+   padding-bottom: 2em;
+}
+
+.img3 {
+   height: 300px;
+   width: 300px;
+   border-radius: 30%;
+}
+
+table {
+   padding: 10%;
+   padding-top: 5em;
+}
+
+tr p {
+   font-size: 1em;
+   color: mediumslateblue;
+   padding-left: 40px;
+}
+
+p:hover {
+   color: blueviolet;
+}
+
+.footer {
+   height: 8em;
+   line-height: 3em;
+   background-color: plum;
+   text-align: center;
+   font-weight: 900;
+}
